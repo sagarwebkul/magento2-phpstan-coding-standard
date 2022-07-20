@@ -1,5 +1,5 @@
 {
-    "name": "webkul/magento2-phpstan-coding-standard",
+    "name": "sagar/magento2-phpstan-coding-standard",
     "description": "A set of additional rules for Magento2 based on best practices followed at Webkul",
     "type": "phpstan-extension",
     "license": "MIT",
