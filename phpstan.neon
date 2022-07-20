@@ -1,0 +1,2 @@
+includes:
+    - phpstan-magento2-rules.neon

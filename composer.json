@@ -1,0 +1,23 @@
+{
+    "name": "webkul/magento2-phpstan-coding-standard",
+    "description": "A set of additional rules for Magento2 based on best practices followed at Webkul",
+    "type": "phpstan-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sagar Bathla"
+        }
+    ],
+    "require": {
+        "php": "^7.1|^8.0",
+        "phpstan/phpstan": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webkul\\PHPStan\\": "src/"
+        }
+    },
+    "require-dev": {
+        "webkul/phpstan-magento2-rules": "^1.0"
+    }
+}

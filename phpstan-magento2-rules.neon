@@ -1,0 +1,5 @@
+services:
+  -
+    class: Webkul\PHPStan\Rules\Superglobals\NoSuperglobalsRule
+    tags:
+      - phpstan.rules.rule
