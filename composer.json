@@ -16,8 +16,5 @@
         "psr-4": {
             "Webkul\\PHPStan\\": "src/"
         }
-    },
-    "require-dev": {
-        "webkul/phpstan-magento2-rules": "^1.0"
     }
 }
